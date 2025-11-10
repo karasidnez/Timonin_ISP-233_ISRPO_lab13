@@ -1,0 +1,40 @@
+C:\Работы студентов\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.exe
+C:\Работы студентов\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.deps.json
+C:\Работы студентов\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.runtimeconfig.json
+C:\Работы студентов\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.dll
+C:\Работы студентов\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.pdb
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp_MarkupCompile.cache
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp_MarkupCompile.lref
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.g.resources
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.AssemblyInfoInputs.cache
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.AssemblyInfo.cs
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.csproj.CoreCompileInputs.cache
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.dll
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\refint\TodoApp.dll
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.pdb
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.genruntimeconfig.cache
+C:\Работы студентов\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\ref\TodoApp.dll
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.exe
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.deps.json
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.runtimeconfig.json
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.dll
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\bin\Debug\net8.0-windows\TodoApp.pdb
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\App.g.cs
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp_MarkupCompile.cache
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp_MarkupCompile.lref
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.g.resources
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.AssemblyInfoInputs.cache
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.AssemblyInfo.cs
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.csproj.CoreCompileInputs.cache
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.dll
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\refint\TodoApp.dll
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.pdb
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\TodoApp.genruntimeconfig.cache
+D:\домашка\ISRPO\Wpf_Demo\TodoApp\obj\Debug\net8.0-windows\ref\TodoApp.dll
